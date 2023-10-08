@@ -18,12 +18,12 @@ app.get("/api/jokes", (req, res) => {
     },
     {
       id: 2,
-      title: "A Joke",
+      title: "B Joke",
       Content: "This is a  B Joke",
     },
     {
       id: 3,
-      title: "A Joke",
+      title: "C Joke",
       Content: "This is a C  Joke",
     },
   ];
