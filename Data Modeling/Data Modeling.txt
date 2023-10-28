@@ -1,0 +1,12 @@
+*******DATA Modeling *********
+- Mongoose :
+tools :
+  -- 1: Moon Modeler : For Data modeling
+          - Easily Draw Diagram with mango and mangoose
+
+          eraser.io Tool : Free
+            Data Modeling Tool-
+            ER Diagram
+
+
+
